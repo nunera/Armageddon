@@ -3,7 +3,7 @@ import timeit
 from selenium import webdriver
 
 path = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
-path2 = "C:\\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+path2 = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
 
 timeit.default_timer()
 
